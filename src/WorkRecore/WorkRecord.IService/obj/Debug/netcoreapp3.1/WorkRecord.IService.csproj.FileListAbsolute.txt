@@ -1,0 +1,8 @@
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\bin\Debug\netcoreapp3.1\WorkRecord.IService.deps.json
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\bin\Debug\netcoreapp3.1\WorkRecord.IService.dll
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\bin\Debug\netcoreapp3.1\WorkRecord.IService.pdb
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\obj\Debug\netcoreapp3.1\WorkRecord.IService.csprojAssemblyReference.cache
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\obj\Debug\netcoreapp3.1\WorkRecord.IService.AssemblyInfoInputs.cache
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\obj\Debug\netcoreapp3.1\WorkRecord.IService.AssemblyInfo.cs
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\obj\Debug\netcoreapp3.1\WorkRecord.IService.dll
+F:\Project\WorkRecord\WebApi\WorkRecore\WorkRecord.IService\obj\Debug\netcoreapp3.1\WorkRecord.IService.pdb

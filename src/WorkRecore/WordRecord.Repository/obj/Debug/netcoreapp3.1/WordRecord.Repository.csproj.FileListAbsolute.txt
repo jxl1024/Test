@@ -1,0 +1,8 @@
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\bin\Debug\netcoreapp3.1\WordRecord.Repository.deps.json
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\bin\Debug\netcoreapp3.1\WordRecord.Repository.dll
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\bin\Debug\netcoreapp3.1\WordRecord.Repository.pdb
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\obj\Debug\netcoreapp3.1\WordRecord.Repository.csprojAssemblyReference.cache
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\obj\Debug\netcoreapp3.1\WordRecord.Repository.AssemblyInfoInputs.cache
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\obj\Debug\netcoreapp3.1\WordRecord.Repository.AssemblyInfo.cs
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\obj\Debug\netcoreapp3.1\WordRecord.Repository.dll
+F:\Project\WorkRecord\WebApi\WorkRecore\WordRecord.Repository\obj\Debug\netcoreapp3.1\WordRecord.Repository.pdb
